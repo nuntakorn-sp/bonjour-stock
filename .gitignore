@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+server.js
+
+# AI Studio + Claude dev tooling (not needed for anyone running the app)
+.aistudio/
+.claude/
+bun.lock
+

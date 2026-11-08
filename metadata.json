@@ -1,0 +1,8 @@
+{
+  "name": "BONJOUR นับสต๊อกสินค้า",
+  "description": "ระบบนับสต๊อกสินค้า รับของ การเงิน รายงาน และปิดกะสำหรับร้านเบเกอรี่ BONJOUR",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
